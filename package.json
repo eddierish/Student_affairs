@@ -1,0 +1,23 @@
+{
+  "name": "student_affairs",
+  "version": "1.0.0",
+  "description": "the greatest site in the universe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddierish/Student_affairs.git"
+  },
+  "author": "EddieRish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddierish/Student_affairs/issues"
+  },
+  "homepage": "https://github.com/eddierish/Student_affairs#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "normalize.css": "^4.2.0"
+  }
+}
